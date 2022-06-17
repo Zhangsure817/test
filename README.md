@@ -1,2 +1,2 @@
 # test
-This is a test protfolio
+This is a test portfolio.
